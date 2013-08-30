@@ -58,7 +58,7 @@ var collages = [
 		"co_052no_one_dies_in_real_life_(photo_of).JPG",
 		"co_053no_sky_to_duck_under.jpg",
 		"co_054oil_slick_heart_skidding_over_the_inside_lane.jpg",
-		"co_055overgive..jpg",
+		"co_055overgive.jpg",
 		"co_056paroxysm.jpg",
 		"co_057people_don't_sing_because_they're_happy_-_high_quality.jpg",
 		"co_058pianos_and_moving_straps_copy.jpg",
