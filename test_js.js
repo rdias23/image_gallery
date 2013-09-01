@@ -48,9 +48,9 @@ var collages = [
 		"co_042gunasaur.jpg",
 		"co_043if_the_day_propelled_she_was_his_gunpowder_(drew_n_martha.jpg",
 		"co_044impermanence.jpg",
-		"co_045jennifergriffo-big200-1.jpg",
-		"co_046jennifergriffo-big200-2.jpg",
-		"co_047jennifergriffo-lizardBig200.jpg",
+/*		"co_045jennifergriffo-big200-1.jpg", */
+/*		"co_046jennifergriffo-big200-2.jpg", */
+/*		"co_047jennifergriffo-lizardBig200.jpg", */
 		"co_048look_up.jpg",
 		"co_049mind_your_head.jpg",
 		"co_050no_one_dies_in_real_life_(1_half).jpg",
@@ -59,7 +59,7 @@ var collages = [
 		"co_053no_sky_to_duck_under.jpg",
 		"co_054oil_slick_heart_skidding_over_the_inside_lane.jpg",
 		"co_055overgive.jpg",
-		"co_056paroxysm.jpg",
+/*		"co_056paroxysm.jpg", */
 		"co_057people_don't_sing_because_they're_happy_-_high_quality.jpg",
 		"co_058pianos_and_moving_straps_copy.jpg",
 		"co_059safety_in_numbers.jpg",
@@ -82,7 +82,8 @@ var collages = [
 		"co_076wild_west.jpg",
 		"co_077without_hitting_the_black_hole.jpg",
 		"co_078yes-sir-ri's.jpg",
-		"co_079you'll_shoot_yer_eye_out_(the_camera_told_me_there'd_be_days_like_this)_-_high_quality.jpg"
+		"co_079you'll_shoot_yer_eye_out_(the_camera_told_me_there'd_be_days_like_this)_-_high_quality.jpg",
+		"co_080newpolice-art.jpg"
 ]
 
 var p_and_p = [
@@ -150,14 +151,14 @@ var p_and_p = [
 		"pp_061moon_number_28.jpg",
 		"pp_062moth.jpg",
 		"pp_063new_song_image.jpg",
-		"pp_064newpolice-art.jpg",
+/*		"pp_064newpolice-art.jpg", */
 		"pp_065pinkdress.jpg",
 		"pp_066pornucopia.jpg",
 		"pp_067raw_materials.jpg",
 		"pp_068sense_of_touch.jpg",
 		"pp_069stuck.jpg",
 		"pp_070twisted.jpg",
-		"pp_071whoworries.jpg"
+		"pp_071whoworries.jpg",
 ]
 
 var misc = [
